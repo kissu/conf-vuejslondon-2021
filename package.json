@@ -10,7 +10,7 @@
     "@slidev/theme-default": "0.21.0",
     "@slidev/theme-seriph": "0.21.0"
   },
-  "name": "conf-nuxtnation-2021",
+  "name": "conf-vuejslondon-2021",
   "devDependencies": {
     "playwright-chromium": "^1.15.0"
   }
