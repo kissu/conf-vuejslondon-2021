@@ -1,5 +1,5 @@
 ---
-title: 'Understand the hard parts of Nuxt'
+title: 'Understand the hard parts of Nuxt (⚡ version)'
 theme: seriph
 
 # fonts:
@@ -8,7 +8,7 @@ theme: seriph
 download: true
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: https://images.unsplash.com/photo-1477346611705-65d1883cee1e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80
+background: https://images.unsplash.com/photo-1491719302159-fcdf021abd5c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2096&q=80
 
 drawings:
   enabled: dev
@@ -32,4 +32,20 @@ src: ./slides/index.md
 
 ---
 src: ./slides/me.md
+---
+
+---
+src: ./slides/mutate_store.md
+---
+
+---
+src: ./slides/env_variables.md
+---
+
+---
+src: ./slides/window_undefined.md
+---
+
+---
+src: ./slides/not_updating.md
 ---

@@ -1,4 +1,4 @@
-# Understand the hard parts of Nuxt
+# Understand the hard parts of Nuxt (light version ⚡)
 
 <style>
 .slidev-layout {

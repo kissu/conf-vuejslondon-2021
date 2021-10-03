@@ -12,22 +12,19 @@ preload: false
     class="top-0 left-0 right-0 bottom-0 h-24 w-24 rounded" src="/images/kissu.jpg"
     alt="photo of konstantin" />
   <section class="ml-4">
+  <v-clicks>
     <p class="!m-0">
-      🎨 Frontend Developer <a href="https://twitter.com/passionpeopleNL">@passionpeopleNL</a> (November)
+      🎨 Frontend Developer <a href="https://twitter.com/passionpeopleNL">@passionpeopleNL</a>
     </p>
     <p class="!my-2">
       <img src="/images/nuxt_logo.svg" class="inline h-6">
-      <a href="https://nuxtjs.org/teams" class="ml-2">
-        Nuxt.js Ambassador
-      </a>
+      <a href="https://nuxtjs.org/teams" class="ml-2">Nuxt.js Ambassador</a>
     </p>
     <p class="!my-2">
       <logos-stackoverflow-icon class="inline mr-2" />
-      <a href="https://stackoverflow.com/users/8816585/kissu">
-        Daily helper on Stackoverflow
-      </a>
+      <a href="https://stackoverflow.com/users/8816585/kissu">Daily helper on Stackoverflow</a>
     </p>
-
+    </v-clicks>
   </section>
 </div>
 
@@ -35,11 +32,9 @@ preload: false
 
 <v-clicks>
 
-- ✍️ Help sometimes on the documentation
-- 🙏 Doing a bit of [mentoring](https://mentorcruise.com/mentor/konstantinbifert/)
-- 🎤 Before COVID, was speaking in public places
-- ✨ I'm into gaming, I love mech keyboards, tech and DIY nerdy stuff
-- PS: this talk is done with [Slidev](https://sli.dev/), give it a try! 🤩
+- This talk will follow the one at [Nuxtnation](https://nuxtnation.com/)
+- ...it is already on the dedicated website and will soon be availble on YouTube
+- Since this is a shorter talk, we'll focus more on the common Vue issues (undiscussed @nuxtnation)
 
 </v-clicks>
 
@@ -57,3 +52,7 @@ preload: false
     }
   }
 </script>
+
+<!--
+feel free to check the videos of the conference, it's free!
+-->

@@ -46,13 +46,6 @@ export default defineWindiSetup(() => ({
         sans: '"DM Sans", ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"',
         mono: '"Fira Code", monospace',
       },
-      theme: {
-        colors: {
-          sky: {
-            800: 'hsl(192.7, 96.3%, 10.6%)'
-          }
-        }
-      }
     },
   },
 }))
